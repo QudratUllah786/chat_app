@@ -1,0 +1,9 @@
+library welcome;
+export './index.dart';
+export './state.dart';
+export './welcome.dart';
+export './first_page.dart';
+export './second_page.dart';
+export './third_page.dart';
+export './welcome_controller.dart';
+export './welcome_binding.dart';
